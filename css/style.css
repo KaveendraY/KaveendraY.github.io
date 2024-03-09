@@ -233,7 +233,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(../images/banner-bg.jpeg);
+    background-image: url(../images/banner-bg.jpg);
     height: 350px;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -331,6 +331,7 @@ button {
 .about_section {
     width: 100%;
     float: left;
+ margin: auto;
 }
 
 .about_taital {
@@ -384,6 +385,11 @@ button {
     float: left;
 }
 
+.game_section_1 {
+    width: 100%;
+    float: left;
+}
+
 .game_taital {
     width: 100%;
     float: left;
@@ -405,6 +411,13 @@ button {
 }
 
 .game_section_2 {
+    width: 100%;
+    float: left;
+    padding-top: 50px;
+    padding-bottom: 90px;
+}
+
+.game_section_3 {
     width: 100%;
     float: left;
     padding-top: 50px;
@@ -540,6 +553,17 @@ button {
     width: 100%;
     float: left;
     background-image: url(../images/1676380875673.jpeg);
+    height: auto;
+    background-size: 100%;
+    padding-bottom: 40px;
+    border-radius: 30px;
+    background-repeat: no-repeat;
+}
+
+.image_10 {
+    width: 100%;
+    float: left;
+    background-image: url(../images/img-10.png);
     height: auto;
     background-size: 100%;
     padding-bottom: 40px;
@@ -753,7 +777,7 @@ button {
 
 .image_7 {
     width: 100%;
-    float: left;
+   
     text-align: center;
     display: inline-block;
     margin-top: 50px;
